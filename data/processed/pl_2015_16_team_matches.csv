@@ -1,0 +1,761 @@
+match_id,date,match_week,team,opponent,is_home,goals_for,goals_against,xg,xgc,possession_pct,result,points
+3754078,2015-08-08,1,Chelsea,Swansea City,1,2,2,0.486,2.472,50.64,D,1
+3754078,2015-08-08,1,Swansea City,Chelsea,0,2,2,2.472,0.486,49.36,D,1
+3754097,2015-08-08,1,Manchester United,Tottenham Hotspur,1,1,0,0.525,0.585,51.97,W,3
+3754097,2015-08-08,1,Tottenham Hotspur,Manchester United,0,0,1,0.585,0.525,48.03,L,0
+3754128,2015-08-08,1,AFC Bournemouth,Aston Villa,1,0,1,1.249,0.652,56.79,L,0
+3754128,2015-08-08,1,Aston Villa,AFC Bournemouth,0,1,0,0.652,1.249,43.21,W,3
+3754138,2015-08-08,1,Norwich City,Crystal Palace,1,1,3,1.406,1.798,61.39,L,0
+3754138,2015-08-08,1,Crystal Palace,Norwich City,0,3,1,1.798,1.406,38.61,W,3
+3754237,2015-08-08,1,Leicester City,Sunderland,1,4,2,2.261,1.368,45.0,W,3
+3754237,2015-08-08,1,Sunderland,Leicester City,0,2,4,1.368,2.261,55.0,L,0
+3754300,2015-08-08,1,Everton,Watford,1,2,2,0.781,0.62,68.53,D,1
+3754300,2015-08-08,1,Watford,Everton,0,2,2,0.62,0.781,31.47,D,1
+3753985,2015-08-09,1,Stoke City,Liverpool,1,0,1,0.415,0.245,46.29,L,0
+3753985,2015-08-09,1,Liverpool,Stoke City,0,1,0,0.245,0.415,53.71,W,3
+3754112,2015-08-09,1,Newcastle United,Southampton,1,2,2,1.614,1.33,56.16,D,1
+3754112,2015-08-09,1,Southampton,Newcastle United,0,2,2,1.33,1.614,43.84,D,1
+3754141,2015-08-09,1,Arsenal,West Ham United,1,0,2,1.292,0.43,61.67,L,0
+3754141,2015-08-09,1,West Ham United,Arsenal,0,2,0,0.43,1.292,38.33,W,3
+3754145,2015-08-10,1,West Bromwich Albion,Manchester City,1,0,3,0.668,1.76,34.83,L,0
+3754145,2015-08-10,1,Manchester City,West Bromwich Albion,0,3,0,1.76,0.668,65.17,W,3
+3754107,2015-08-14,2,Aston Villa,Manchester United,1,0,1,0.325,0.541,48.49,L,0
+3754107,2015-08-14,2,Manchester United,Aston Villa,0,1,0,0.541,0.325,51.51,W,3
+3753993,2015-08-15,2,Sunderland,Norwich City,1,1,3,0.387,1.23,39.4,L,0
+3753993,2015-08-15,2,Norwich City,Sunderland,0,3,1,1.23,0.387,60.6,W,3
+3754034,2015-08-15,2,Southampton,Everton,1,0,3,1.057,0.912,55.35,L,0
+3754034,2015-08-15,2,Everton,Southampton,0,3,0,0.912,1.057,44.65,W,3
+3754203,2015-08-15,2,West Ham United,Leicester City,1,1,2,0.806,1.215,66.76,L,0
+3754203,2015-08-15,2,Leicester City,West Ham United,0,2,1,1.215,0.806,33.24,W,3
+3754267,2015-08-15,2,Watford,West Bromwich Albion,1,0,0,0.9,0.931,64.48,D,1
+3754267,2015-08-15,2,West Bromwich Albion,Watford,0,0,0,0.931,0.9,35.52,D,1
+3754270,2015-08-15,2,Tottenham Hotspur,Stoke City,1,2,2,1.416,2.597,52.71,D,1
+3754270,2015-08-15,2,Stoke City,Tottenham Hotspur,0,2,2,2.597,1.416,47.29,D,1
+3754344,2015-08-15,2,Swansea City,Newcastle United,1,2,0,1.807,0.129,66.41,W,3
+3754344,2015-08-15,2,Newcastle United,Swansea City,0,0,2,0.129,1.807,33.59,L,0
+3754066,2015-08-16,2,Manchester City,Chelsea,1,3,0,1.777,0.801,51.17,W,3
+3754066,2015-08-16,2,Chelsea,Manchester City,0,0,3,0.801,1.777,48.83,L,0
+3754312,2015-08-16,2,Crystal Palace,Arsenal,1,1,2,1.274,1.778,43.94,L,0
+3754312,2015-08-16,2,Arsenal,Crystal Palace,0,2,1,1.778,1.274,56.06,W,3
+3754020,2015-08-17,2,Liverpool,AFC Bournemouth,1,1,0,1.834,0.789,57.69,W,3
+3754020,2015-08-17,2,AFC Bournemouth,Liverpool,0,0,1,0.789,1.834,42.31,L,0
+3753987,2015-08-22,3,Leicester City,Tottenham Hotspur,1,1,1,0.627,1.972,35.77,D,1
+3753987,2015-08-22,3,Tottenham Hotspur,Leicester City,0,1,1,1.972,0.627,64.23,D,1
+3754104,2015-08-22,3,Norwich City,Stoke City,1,1,1,2.333,0.619,42.67,D,1
+3754104,2015-08-22,3,Stoke City,Norwich City,0,1,1,0.619,2.333,57.33,D,1
+3754131,2015-08-22,3,West Ham United,AFC Bournemouth,1,3,4,1.696,2.738,48.74,L,0
+3754131,2015-08-22,3,AFC Bournemouth,West Ham United,0,4,3,2.738,1.696,51.26,W,3
+3754180,2015-08-22,3,Sunderland,Swansea City,1,1,1,0.834,1.633,39.0,D,1
+3754180,2015-08-22,3,Swansea City,Sunderland,0,1,1,1.633,0.834,61.0,D,1
+3754190,2015-08-22,3,Crystal Palace,Aston Villa,1,2,1,0.989,0.899,50.07,W,3
+3754190,2015-08-22,3,Aston Villa,Crystal Palace,0,1,2,0.899,0.989,49.93,L,0
+3754254,2015-08-22,3,Manchester United,Newcastle United,1,0,0,1.506,0.373,70.01,D,1
+3754254,2015-08-22,3,Newcastle United,Manchester United,0,0,0,0.373,1.506,29.99,D,1
+3754059,2015-08-23,3,West Bromwich Albion,Chelsea,1,2,3,1.767,2.475,38.48,L,0
+3754059,2015-08-23,3,Chelsea,West Bromwich Albion,0,3,2,2.475,1.767,61.52,W,3
+3754189,2015-08-23,3,Watford,Southampton,1,0,0,0.857,0.824,53.95,D,1
+3754189,2015-08-23,3,Southampton,Watford,0,0,0,0.824,0.857,46.05,D,1
+3754233,2015-08-23,3,Everton,Manchester City,1,0,2,0.589,1.173,43.41,L,0
+3754233,2015-08-23,3,Manchester City,Everton,0,2,0,1.173,0.589,56.59,W,3
+3754129,2015-08-24,3,Arsenal,Liverpool,1,0,0,2.109,1.453,63.1,D,1
+3754129,2015-08-24,3,Liverpool,Arsenal,0,0,0,1.453,2.109,36.9,D,1
+3753984,2015-08-29,4,Liverpool,West Ham United,1,0,3,1.057,0.731,65.68,L,0
+3753984,2015-08-29,4,West Ham United,Liverpool,0,3,0,0.731,1.057,34.32,W,3
+3754007,2015-08-29,4,Stoke City,West Bromwich Albion,1,0,1,0.655,0.952,49.5,L,0
+3754007,2015-08-29,4,West Bromwich Albion,Stoke City,0,1,0,0.952,0.655,50.5,W,3
+3754023,2015-08-29,4,AFC Bournemouth,Leicester City,1,1,1,0.3,0.829,54.49,D,1
+3754023,2015-08-29,4,Leicester City,AFC Bournemouth,0,1,1,0.829,0.3,45.51,D,1
+3754083,2015-08-29,4,Chelsea,Crystal Palace,1,1,2,2.202,2.145,58.83,L,0
+3754083,2015-08-29,4,Crystal Palace,Chelsea,0,2,1,2.145,2.202,41.17,W,3
+3754204,2015-08-29,4,Aston Villa,Sunderland,1,2,2,3.299,0.658,65.88,D,1
+3754204,2015-08-29,4,Sunderland,Aston Villa,0,2,2,0.658,3.299,34.12,D,1
+3754205,2015-08-29,4,Newcastle United,Arsenal,1,0,1,0.043,1.89,30.4,L,0
+3754205,2015-08-29,4,Arsenal,Newcastle United,0,1,0,1.89,0.043,69.6,W,3
+3754246,2015-08-29,4,Manchester City,Watford,1,2,0,1.235,0.404,60.75,W,3
+3754246,2015-08-29,4,Watford,Manchester City,0,0,2,0.404,1.235,39.25,L,0
+3754268,2015-08-29,4,Tottenham Hotspur,Everton,1,0,0,2.118,0.328,51.17,D,1
+3754268,2015-08-29,4,Everton,Tottenham Hotspur,0,0,0,0.328,2.118,48.83,D,1
+3754221,2015-08-30,4,Swansea City,Manchester United,1,2,1,0.935,0.903,37.21,W,3
+3754221,2015-08-30,4,Manchester United,Swansea City,0,1,2,0.903,0.935,62.79,L,0
+3754337,2015-08-30,4,Southampton,Norwich City,1,3,0,2.586,0.78,60.64,W,3
+3754337,2015-08-30,4,Norwich City,Southampton,0,0,3,0.78,2.586,39.36,L,0
+3754003,2015-09-12,5,Manchester United,Liverpool,1,3,1,1.479,0.618,59.0,W,3
+3754003,2015-09-12,5,Liverpool,Manchester United,0,1,3,0.618,1.479,41.0,L,0
+3754213,2015-09-12,5,Watford,Swansea City,1,1,0,1.153,0.822,37.37,W,3
+3754213,2015-09-12,5,Swansea City,Watford,0,0,1,0.822,1.153,62.63,L,0
+3754240,2015-09-12,5,Arsenal,Stoke City,1,2,0,3.702,0.283,69.28,W,3
+3754240,2015-09-12,5,Stoke City,Arsenal,0,0,2,0.283,3.702,30.72,L,0
+3754257,2015-09-12,5,Crystal Palace,Manchester City,1,0,1,0.536,3.561,42.11,L,0
+3754257,2015-09-12,5,Manchester City,Crystal Palace,0,1,0,3.561,0.536,57.89,W,3
+3754315,2015-09-12,5,Norwich City,AFC Bournemouth,1,3,1,1.32,0.777,48.5,W,3
+3754315,2015-09-12,5,AFC Bournemouth,Norwich City,0,1,3,0.777,1.32,51.5,L,0
+3754325,2015-09-12,5,West Bromwich Albion,Southampton,1,0,0,0.599,1.092,32.77,D,1
+3754325,2015-09-12,5,Southampton,West Bromwich Albion,0,0,0,1.092,0.599,67.23,D,1
+3754336,2015-09-12,5,Everton,Chelsea,1,3,1,1.21,0.796,39.5,W,3
+3754336,2015-09-12,5,Chelsea,Everton,0,1,3,0.796,1.21,60.5,L,0
+3754106,2015-09-13,5,Leicester City,Aston Villa,1,3,2,1.498,1.217,53.41,W,3
+3754106,2015-09-13,5,Aston Villa,Leicester City,0,2,3,1.217,1.498,46.59,L,0
+3754148,2015-09-13,5,Sunderland,Tottenham Hotspur,1,0,1,1.075,1.598,46.26,L,0
+3754148,2015-09-13,5,Tottenham Hotspur,Sunderland,0,1,0,1.598,1.075,53.74,W,3
+3754329,2015-09-14,5,West Ham United,Newcastle United,1,2,0,2.092,0.812,41.99,W,3
+3754329,2015-09-14,5,Newcastle United,West Ham United,0,0,2,0.812,2.092,58.01,L,0
+3754010,2015-09-19,6,Newcastle United,Watford,1,1,2,1.377,1.159,61.59,L,0
+3754010,2015-09-19,6,Watford,Newcastle United,0,2,1,1.159,1.377,38.41,W,3
+3754068,2015-09-19,6,Aston Villa,West Bromwich Albion,1,0,1,0.596,0.922,56.78,L,0
+3754068,2015-09-19,6,West Bromwich Albion,Aston Villa,0,1,0,0.922,0.596,43.22,W,3
+3754077,2015-09-19,6,Manchester City,West Ham United,1,1,2,2.529,0.794,70.86,L,0
+3754077,2015-09-19,6,West Ham United,Manchester City,0,2,1,0.794,2.529,29.14,W,3
+3754146,2015-09-19,6,Stoke City,Leicester City,1,2,2,1.324,1.611,56.23,D,1
+3754146,2015-09-19,6,Leicester City,Stoke City,0,2,2,1.611,1.324,43.77,D,1
+3754169,2015-09-19,6,AFC Bournemouth,Sunderland,1,2,0,0.574,0.425,50.46,W,3
+3754169,2015-09-19,6,Sunderland,AFC Bournemouth,0,0,2,0.425,0.574,49.54,L,0
+3754217,2015-09-19,6,Chelsea,Arsenal,1,2,0,1.645,0.838,63.66,W,3
+3754217,2015-09-19,6,Arsenal,Chelsea,0,0,2,0.838,1.645,36.34,L,0
+3754298,2015-09-19,6,Swansea City,Everton,1,0,0,0.749,1.656,45.88,D,1
+3754298,2015-09-19,6,Everton,Swansea City,0,0,0,1.656,0.749,54.12,D,1
+3754011,2015-09-20,6,Southampton,Manchester United,1,2,3,1.774,1.624,43.22,L,0
+3754011,2015-09-20,6,Manchester United,Southampton,0,3,2,1.624,1.774,56.78,W,3
+3754040,2015-09-20,6,Liverpool,Norwich City,1,1,1,2.468,0.451,59.48,D,1
+3754040,2015-09-20,6,Norwich City,Liverpool,0,1,1,0.451,2.468,40.52,D,1
+3754222,2015-09-20,6,Tottenham Hotspur,Crystal Palace,1,1,0,0.954,0.604,57.78,W,3
+3754222,2015-09-20,6,Crystal Palace,Tottenham Hotspur,0,0,1,0.604,0.954,42.22,L,0
+3753978,2015-09-26,7,Southampton,Swansea City,1,3,1,1.408,1.321,38.09,W,3
+3753978,2015-09-26,7,Swansea City,Southampton,0,1,3,1.321,1.408,61.91,L,0
+3754001,2015-09-26,7,Newcastle United,Chelsea,1,2,2,0.876,1.285,34.52,D,1
+3754001,2015-09-26,7,Chelsea,Newcastle United,0,2,2,1.285,0.876,65.48,D,1
+3754008,2015-09-26,7,Manchester United,Sunderland,1,3,0,2.344,0.486,67.82,W,3
+3754008,2015-09-26,7,Sunderland,Manchester United,0,0,3,0.486,2.344,32.18,L,0
+3754174,2015-09-26,7,Leicester City,Arsenal,1,2,5,1.595,3.285,43.96,L,0
+3754174,2015-09-26,7,Arsenal,Leicester City,0,5,2,3.285,1.595,56.04,W,3
+3754197,2015-09-26,7,Tottenham Hotspur,Manchester City,1,4,1,2.074,1.173,46.59,W,3
+3754197,2015-09-26,7,Manchester City,Tottenham Hotspur,0,1,4,1.173,2.074,53.41,L,0
+3754212,2015-09-26,7,Liverpool,Aston Villa,1,3,2,1.755,1.108,63.05,W,3
+3754212,2015-09-26,7,Aston Villa,Liverpool,0,2,3,1.108,1.755,36.95,L,0
+3754323,2015-09-26,7,West Ham United,Norwich City,1,2,2,2.282,1.302,43.3,D,1
+3754323,2015-09-26,7,Norwich City,West Ham United,0,2,2,1.302,2.282,56.7,D,1
+3754339,2015-09-26,7,Stoke City,AFC Bournemouth,1,2,1,1.084,1.053,44.93,W,3
+3754339,2015-09-26,7,AFC Bournemouth,Stoke City,0,1,2,1.053,1.084,55.07,L,0
+3754266,2015-09-27,7,Watford,Crystal Palace,1,0,1,1.091,1.945,55.75,L,0
+3754266,2015-09-27,7,Crystal Palace,Watford,0,1,0,1.945,1.091,44.25,W,3
+3754105,2015-09-28,7,West Bromwich Albion,Everton,1,2,3,0.857,1.835,45.95,L,0
+3754105,2015-09-28,7,Everton,West Bromwich Albion,0,3,2,1.835,0.857,54.05,W,3
+3753995,2015-10-03,8,Chelsea,Southampton,1,1,3,0.432,1.67,61.13,L,0
+3753995,2015-10-03,8,Southampton,Chelsea,0,3,1,1.67,0.432,38.87,W,3
+3754076,2015-10-03,8,Sunderland,West Ham United,1,2,2,1.094,2.026,45.54,D,1
+3754076,2015-10-03,8,West Ham United,Sunderland,0,2,2,2.026,1.094,54.46,D,1
+3754079,2015-10-03,8,Manchester City,Newcastle United,1,6,1,3.896,1.255,65.84,W,3
+3754079,2015-10-03,8,Newcastle United,Manchester City,0,1,6,1.255,3.896,34.16,L,0
+3754099,2015-10-03,8,Crystal Palace,West Bromwich Albion,1,2,0,1.867,0.204,60.76,W,3
+3754099,2015-10-03,8,West Bromwich Albion,Crystal Palace,0,0,2,0.204,1.867,39.24,L,0
+3754278,2015-10-03,8,AFC Bournemouth,Watford,1,1,1,1.381,1.167,55.21,D,1
+3754278,2015-10-03,8,Watford,AFC Bournemouth,0,1,1,1.167,1.381,44.79,D,1
+3754330,2015-10-03,8,Aston Villa,Stoke City,1,0,1,0.623,1.409,56.67,L,0
+3754330,2015-10-03,8,Stoke City,Aston Villa,0,1,0,1.409,0.623,43.33,W,3
+3754335,2015-10-03,8,Norwich City,Leicester City,1,1,2,1.289,3.519,68.44,L,0
+3754335,2015-10-03,8,Leicester City,Norwich City,0,2,1,3.519,1.289,31.56,W,3
+3754060,2015-10-04,8,Everton,Liverpool,1,1,1,0.69,1.172,50.84,D,1
+3754060,2015-10-04,8,Liverpool,Everton,0,1,1,1.172,0.69,49.16,D,1
+3754074,2015-10-04,8,Swansea City,Tottenham Hotspur,1,2,2,0.922,1.159,45.76,D,1
+3754074,2015-10-04,8,Tottenham Hotspur,Swansea City,0,2,2,1.159,0.922,54.24,D,1
+3754171,2015-10-04,8,Arsenal,Manchester United,1,3,0,1.535,1.155,37.62,W,3
+3754171,2015-10-04,8,Manchester United,Arsenal,0,0,3,1.155,1.535,62.38,L,0
+3753999,2015-10-17,9,Watford,Arsenal,1,0,3,0.512,2.011,36.11,L,0
+3753999,2015-10-17,9,Arsenal,Watford,0,3,0,2.011,0.512,63.89,W,3
+3754067,2015-10-17,9,Crystal Palace,West Ham United,1,1,3,1.241,2.429,40.07,L,0
+3754067,2015-10-17,9,West Ham United,Crystal Palace,0,3,1,2.429,1.241,59.93,W,3
+3754115,2015-10-17,9,Chelsea,Aston Villa,1,2,0,1.1,0.566,47.21,W,3
+3754115,2015-10-17,9,Aston Villa,Chelsea,0,0,2,0.566,1.1,52.79,L,0
+3754193,2015-10-17,9,Manchester City,AFC Bournemouth,1,5,1,3.679,0.608,56.2,W,3
+3754193,2015-10-17,9,AFC Bournemouth,Manchester City,0,1,5,0.608,3.679,43.8,L,0
+3754198,2015-10-17,9,Tottenham Hotspur,Liverpool,1,0,0,0.967,0.535,50.92,D,1
+3754198,2015-10-17,9,Liverpool,Tottenham Hotspur,0,0,0,0.535,0.967,49.08,D,1
+3754245,2015-10-17,9,West Bromwich Albion,Sunderland,1,1,0,1.476,0.67,58.83,W,3
+3754245,2015-10-17,9,Sunderland,West Bromwich Albion,0,0,1,0.67,1.476,41.17,L,0
+3754256,2015-10-17,9,Everton,Manchester United,1,0,3,1.141,1.325,48.47,L,0
+3754256,2015-10-17,9,Manchester United,Everton,0,3,0,1.325,1.141,51.53,W,3
+3754302,2015-10-17,9,Southampton,Leicester City,1,2,2,1.364,2.112,49.48,D,1
+3754302,2015-10-17,9,Leicester City,Southampton,0,2,2,2.112,1.364,50.52,D,1
+3754102,2015-10-18,9,Newcastle United,Norwich City,1,6,2,1.881,1.347,45.35,W,3
+3754102,2015-10-18,9,Norwich City,Newcastle United,0,2,6,1.347,1.881,54.65,L,0
+3754269,2015-10-19,9,Swansea City,Stoke City,1,0,1,0.547,1.342,56.66,L,0
+3754269,2015-10-19,9,Stoke City,Swansea City,0,1,0,1.342,0.547,43.34,W,3
+3754017,2015-10-24,10,Aston Villa,Swansea City,1,1,2,1.047,1.649,48.3,L,0
+3754017,2015-10-24,10,Swansea City,Aston Villa,0,2,1,1.649,1.047,51.7,W,3
+3754091,2015-10-24,10,Stoke City,Watford,1,0,2,0.449,0.976,66.32,L,0
+3754091,2015-10-24,10,Watford,Stoke City,0,2,0,0.976,0.449,33.68,W,3
+3754126,2015-10-24,10,Arsenal,Everton,1,2,1,2.479,0.793,56.85,W,3
+3754126,2015-10-24,10,Everton,Arsenal,0,1,2,0.793,2.479,43.15,L,0
+3754133,2015-10-24,10,Norwich City,West Bromwich Albion,1,0,1,0.778,0.595,60.81,L,0
+3754133,2015-10-24,10,West Bromwich Albion,Norwich City,0,1,0,0.595,0.778,39.19,W,3
+3754263,2015-10-24,10,Leicester City,Crystal Palace,1,1,0,1.329,0.371,45.31,W,3
+3754263,2015-10-24,10,Crystal Palace,Leicester City,0,0,1,0.371,1.329,54.69,L,0
+3754288,2015-10-24,10,West Ham United,Chelsea,1,2,1,0.785,0.762,48.28,W,3
+3754288,2015-10-24,10,Chelsea,West Ham United,0,1,2,0.762,0.785,51.72,L,0
+3754015,2015-10-25,10,Manchester United,Manchester City,1,0,0,0.345,0.324,62.43,D,1
+3754015,2015-10-25,10,Manchester City,Manchester United,0,0,0,0.324,0.345,37.57,D,1
+3754119,2015-10-25,10,Sunderland,Newcastle United,1,3,0,2.078,2.898,40.44,W,3
+3754119,2015-10-25,10,Newcastle United,Sunderland,0,0,3,2.898,2.078,59.56,L,0
+3754230,2015-10-25,10,Liverpool,Southampton,1,1,1,0.651,1.491,61.41,D,1
+3754230,2015-10-25,10,Southampton,Liverpool,0,1,1,1.491,0.651,38.59,D,1
+3754234,2015-10-25,10,AFC Bournemouth,Tottenham Hotspur,1,1,5,0.62,2.916,46.01,L,0
+3754234,2015-10-25,10,Tottenham Hotspur,AFC Bournemouth,0,5,1,2.916,0.62,53.99,W,3
+3753983,2015-10-31,11,Swansea City,Arsenal,1,0,3,0.33,1.647,56.32,L,0
+3753983,2015-10-31,11,Arsenal,Swansea City,0,3,0,1.647,0.33,43.68,W,3
+3754006,2015-10-31,11,West Bromwich Albion,Leicester City,1,2,3,1.987,1.679,52.86,L,0
+3754006,2015-10-31,11,Leicester City,West Bromwich Albion,0,3,2,1.679,1.987,47.14,W,3
+3754090,2015-10-31,11,Newcastle United,Stoke City,1,0,0,1.331,1.344,51.44,D,1
+3754090,2015-10-31,11,Stoke City,Newcastle United,0,0,0,1.344,1.331,48.56,D,1
+3754098,2015-10-31,11,Chelsea,Liverpool,1,1,3,0.491,0.888,44.53,L,0
+3754098,2015-10-31,11,Liverpool,Chelsea,0,3,1,0.888,0.491,55.47,W,3
+3754167,2015-10-31,11,Manchester City,Norwich City,1,2,1,3.402,1.392,67.94,W,3
+3754167,2015-10-31,11,Norwich City,Manchester City,0,1,2,1.392,3.402,32.06,L,0
+3754223,2015-10-31,11,Crystal Palace,Manchester United,1,0,0,0.876,0.579,45.33,D,1
+3754223,2015-10-31,11,Manchester United,Crystal Palace,0,0,0,0.579,0.876,54.67,D,1
+3754273,2015-10-31,11,Watford,West Ham United,1,2,0,1.847,0.867,51.34,W,3
+3754273,2015-10-31,11,West Ham United,Watford,0,0,2,0.867,1.847,48.66,L,0
+3754082,2015-11-01,11,Everton,Sunderland,1,6,2,2.205,1.781,61.97,W,3
+3754082,2015-11-01,11,Sunderland,Everton,0,2,6,1.781,2.205,38.03,L,0
+3754191,2015-11-01,11,Southampton,AFC Bournemouth,1,2,0,0.983,0.915,48.86,W,3
+3754191,2015-11-01,11,AFC Bournemouth,Southampton,0,0,2,0.915,0.983,51.14,L,0
+3754029,2015-11-02,11,Tottenham Hotspur,Aston Villa,1,3,1,1.081,0.461,57.15,W,3
+3754029,2015-11-02,11,Aston Villa,Tottenham Hotspur,0,1,3,0.461,1.081,42.85,L,0
+3754000,2015-11-07,12,Sunderland,Southampton,1,0,1,0.555,1.797,37.24,L,0
+3754000,2015-11-07,12,Southampton,Sunderland,0,1,0,1.797,0.555,62.76,W,3
+3754156,2015-11-07,12,Leicester City,Watford,1,2,1,1.863,1.076,42.95,W,3
+3754156,2015-11-07,12,Watford,Leicester City,0,1,2,1.076,1.863,57.05,L,0
+3754194,2015-11-07,12,West Ham United,Everton,1,1,1,0.84,1.662,49.59,D,1
+3754194,2015-11-07,12,Everton,West Ham United,0,1,1,1.662,0.84,50.41,D,1
+3754238,2015-11-07,12,AFC Bournemouth,Newcastle United,1,0,1,1.075,0.237,69.39,L,0
+3754238,2015-11-07,12,Newcastle United,AFC Bournemouth,0,1,0,0.237,1.075,30.61,W,3
+3754293,2015-11-07,12,Stoke City,Chelsea,1,1,0,0.747,0.853,34.95,W,3
+3754293,2015-11-07,12,Chelsea,Stoke City,0,0,1,0.853,0.747,65.05,L,0
+3754297,2015-11-07,12,Manchester United,West Bromwich Albion,1,2,0,1.464,0.414,66.13,W,3
+3754297,2015-11-07,12,West Bromwich Albion,Manchester United,0,0,2,0.414,1.464,33.87,L,0
+3754311,2015-11-07,12,Norwich City,Swansea City,1,1,0,1.096,0.488,33.87,W,3
+3754311,2015-11-07,12,Swansea City,Norwich City,0,0,1,0.488,1.096,66.13,L,0
+3754258,2015-11-08,12,Aston Villa,Manchester City,1,0,0,0.169,1.846,44.82,D,1
+3754258,2015-11-08,12,Manchester City,Aston Villa,0,0,0,1.846,0.169,55.18,D,1
+3754265,2015-11-08,12,Arsenal,Tottenham Hotspur,1,1,1,1.574,1.087,56.56,D,1
+3754265,2015-11-08,12,Tottenham Hotspur,Arsenal,0,1,1,1.087,1.574,43.44,D,1
+3754351,2015-11-08,12,Liverpool,Crystal Palace,1,1,2,1.795,0.576,65.29,L,0
+3754351,2015-11-08,12,Crystal Palace,Liverpool,0,2,1,0.576,1.795,34.71,W,3
+3753972,2015-11-21,13,Swansea City,AFC Bournemouth,1,2,2,2.146,1.791,42.82,D,1
+3753972,2015-11-21,13,AFC Bournemouth,Swansea City,0,2,2,1.791,2.146,57.18,D,1
+3753996,2015-11-21,13,Chelsea,Norwich City,1,1,0,1.821,0.306,65.81,W,3
+3753996,2015-11-21,13,Norwich City,Chelsea,0,0,1,0.306,1.821,34.19,L,0
+3754185,2015-11-21,13,Watford,Manchester United,1,1,2,1.661,1.174,43.37,L,0
+3754185,2015-11-21,13,Manchester United,Watford,0,2,1,1.174,1.661,56.63,W,3
+3754208,2015-11-21,13,Manchester City,Liverpool,1,1,4,0.903,3.245,60.84,L,0
+3754208,2015-11-21,13,Liverpool,Manchester City,0,4,1,3.245,0.903,39.16,W,3
+3754211,2015-11-21,13,Newcastle United,Leicester City,1,0,3,0.43,3.173,53.42,L,0
+3754211,2015-11-21,13,Leicester City,Newcastle United,0,3,0,3.173,0.43,46.58,W,3
+3754247,2015-11-21,13,Southampton,Stoke City,1,0,1,1.152,1.412,54.56,L,0
+3754247,2015-11-21,13,Stoke City,Southampton,0,1,0,1.412,1.152,45.44,W,3
+3754283,2015-11-21,13,Everton,Aston Villa,1,4,0,2.321,1.105,60.86,W,3
+3754283,2015-11-21,13,Aston Villa,Everton,0,0,4,1.105,2.321,39.14,L,0
+3754301,2015-11-21,13,West Bromwich Albion,Arsenal,1,2,1,0.419,1.78,30.85,W,3
+3754301,2015-11-21,13,Arsenal,West Bromwich Albion,0,1,2,1.78,0.419,69.15,L,0
+3754109,2015-11-22,13,Tottenham Hotspur,West Ham United,1,4,1,2.661,0.75,58.09,W,3
+3754109,2015-11-22,13,West Ham United,Tottenham Hotspur,0,1,4,0.75,2.661,41.91,L,0
+3753979,2015-11-23,13,Crystal Palace,Sunderland,1,0,1,0.691,1.672,70.23,L,0
+3753979,2015-11-23,13,Sunderland,Crystal Palace,0,1,0,1.672,0.691,29.77,W,3
+3754028,2015-11-28,14,Manchester City,Southampton,1,3,1,1.67,1.194,46.72,W,3
+3754028,2015-11-28,14,Southampton,Manchester City,0,1,3,1.194,1.67,53.28,L,0
+3754150,2015-11-28,14,Sunderland,Stoke City,1,2,0,1.208,0.973,43.98,W,3
+3754150,2015-11-28,14,Stoke City,Sunderland,0,0,2,0.973,1.208,56.02,L,0
+3754157,2015-11-28,14,AFC Bournemouth,Everton,1,3,3,1.428,0.703,57.05,D,1
+3754157,2015-11-28,14,Everton,AFC Bournemouth,0,3,3,0.703,1.428,42.95,D,1
+3754178,2015-11-28,14,Aston Villa,Watford,1,2,3,1.905,1.71,70.05,L,0
+3754178,2015-11-28,14,Watford,Aston Villa,0,3,2,1.71,1.905,29.95,W,3
+3754186,2015-11-28,14,Leicester City,Manchester United,1,1,1,0.439,0.878,34.89,D,1
+3754186,2015-11-28,14,Manchester United,Leicester City,0,1,1,0.878,0.439,65.11,D,1
+3754304,2015-11-28,14,Crystal Palace,Newcastle United,1,5,1,1.59,0.789,55.5,W,3
+3754304,2015-11-28,14,Newcastle United,Crystal Palace,0,1,5,0.789,1.59,44.5,L,0
+3754038,2015-11-29,14,Norwich City,Arsenal,1,1,1,1.065,1.557,42.72,D,1
+3754038,2015-11-29,14,Arsenal,Norwich City,0,1,1,1.557,1.065,57.28,D,1
+3754047,2015-11-29,14,Liverpool,Swansea City,1,1,0,1.504,0.429,55.09,W,3
+3754047,2015-11-29,14,Swansea City,Liverpool,0,0,1,0.429,1.504,44.91,L,0
+3754093,2015-11-29,14,Tottenham Hotspur,Chelsea,1,0,0,0.513,0.272,58.79,D,1
+3754093,2015-11-29,14,Chelsea,Tottenham Hotspur,0,0,0,0.272,0.513,41.21,D,1
+3754235,2015-11-29,14,West Ham United,West Bromwich Albion,1,1,1,1.718,0.721,56.57,D,1
+3754235,2015-11-29,14,West Bromwich Albion,West Ham United,0,1,1,0.721,1.718,43.43,D,1
+3754073,2015-12-05,15,Chelsea,AFC Bournemouth,1,0,1,1.339,1.706,62.48,L,0
+3754073,2015-12-05,15,AFC Bournemouth,Chelsea,0,1,0,1.706,1.339,37.52,W,3
+3754085,2015-12-05,15,Swansea City,Leicester City,1,0,3,1.048,2.548,59.89,L,0
+3754085,2015-12-05,15,Leicester City,Swansea City,0,3,0,2.548,1.048,40.11,W,3
+3754113,2015-12-05,15,Southampton,Aston Villa,1,1,1,2.926,0.808,59.81,D,1
+3754113,2015-12-05,15,Aston Villa,Southampton,0,1,1,0.808,2.926,40.19,D,1
+3754135,2015-12-05,15,Stoke City,Manchester City,1,2,0,1.529,0.48,47.06,W,3
+3754135,2015-12-05,15,Manchester City,Stoke City,0,0,2,0.48,1.529,52.94,L,0
+3754160,2015-12-05,15,Arsenal,Sunderland,1,3,1,1.843,0.875,67.65,W,3
+3754160,2015-12-05,15,Sunderland,Arsenal,0,1,3,0.875,1.843,32.35,L,0
+3754215,2015-12-05,15,West Bromwich Albion,Tottenham Hotspur,1,1,1,0.993,0.707,34.62,D,1
+3754215,2015-12-05,15,Tottenham Hotspur,West Bromwich Albion,0,1,1,0.707,0.993,65.38,D,1
+3754286,2015-12-05,15,Watford,Norwich City,1,2,0,2.162,0.535,46.65,W,3
+3754286,2015-12-05,15,Norwich City,Watford,0,0,2,0.535,2.162,53.35,L,0
+3754347,2015-12-05,15,Manchester United,West Ham United,1,0,0,1.925,0.625,61.78,D,1
+3754347,2015-12-05,15,West Ham United,Manchester United,0,0,0,0.625,1.925,38.22,D,1
+3754143,2015-12-06,15,Newcastle United,Liverpool,1,2,0,0.887,1.116,39.4,W,3
+3754143,2015-12-06,15,Liverpool,Newcastle United,0,0,2,1.116,0.887,60.6,L,0
+3754046,2015-12-07,15,Everton,Crystal Palace,1,1,1,1.891,0.83,62.05,D,1
+3754046,2015-12-07,15,Crystal Palace,Everton,0,1,1,0.83,1.891,37.95,D,1
+3754072,2015-12-12,16,Sunderland,Watford,1,0,1,1.393,1.849,52.71,L,0
+3754072,2015-12-12,16,Watford,Sunderland,0,1,0,1.849,1.393,47.29,W,3
+3754096,2015-12-12,16,West Ham United,Stoke City,1,0,0,1.784,1.461,50.6,D,1
+3754096,2015-12-12,16,Stoke City,West Ham United,0,0,0,1.461,1.784,49.4,D,1
+3754162,2015-12-12,16,AFC Bournemouth,Manchester United,1,2,1,1.132,1.524,42.54,W,3
+3754162,2015-12-12,16,Manchester United,AFC Bournemouth,0,1,2,1.524,1.132,57.46,L,0
+3754182,2015-12-12,16,Norwich City,Everton,1,1,1,1.31,1.871,38.44,D,1
+3754182,2015-12-12,16,Everton,Norwich City,0,1,1,1.871,1.31,61.56,D,1
+3754218,2015-12-12,16,Crystal Palace,Southampton,1,1,0,1.204,0.941,44.03,W,3
+3754218,2015-12-12,16,Southampton,Crystal Palace,0,0,1,0.941,1.204,55.97,L,0
+3754328,2015-12-12,16,Manchester City,Swansea City,1,2,1,0.783,1.234,51.5,W,3
+3754328,2015-12-12,16,Swansea City,Manchester City,0,1,2,1.234,0.783,48.5,L,0
+3754117,2015-12-13,16,Aston Villa,Arsenal,1,0,2,1.029,1.904,51.12,L,0
+3754117,2015-12-13,16,Arsenal,Aston Villa,0,2,0,1.904,1.029,48.88,W,3
+3754255,2015-12-13,16,Liverpool,West Bromwich Albion,1,2,2,2.325,0.48,70.52,D,1
+3754255,2015-12-13,16,West Bromwich Albion,Liverpool,0,2,2,0.48,2.325,29.48,D,1
+3754276,2015-12-13,16,Tottenham Hotspur,Newcastle United,1,1,2,1.11,1.449,58.04,L,0
+3754276,2015-12-13,16,Newcastle United,Tottenham Hotspur,0,2,1,1.449,1.11,41.96,W,3
+3754013,2015-12-14,16,Leicester City,Chelsea,1,2,1,0.644,2.061,34.63,W,3
+3754013,2015-12-14,16,Chelsea,Leicester City,0,1,2,2.061,0.644,65.37,L,0
+3754025,2015-12-19,17,Chelsea,Sunderland,1,3,1,3.155,1.619,66.4,W,3
+3754025,2015-12-19,17,Sunderland,Chelsea,0,1,3,1.619,3.155,33.6,L,0
+3754044,2015-12-19,17,Manchester United,Norwich City,1,1,2,0.942,0.924,70.03,L,0
+3754044,2015-12-19,17,Norwich City,Manchester United,0,2,1,0.924,0.942,29.97,W,3
+3754136,2015-12-19,17,Newcastle United,Aston Villa,1,1,1,1.085,0.38,46.25,D,1
+3754136,2015-12-19,17,Aston Villa,Newcastle United,0,1,1,0.38,1.085,53.75,D,1
+3754153,2015-12-19,17,Stoke City,Crystal Palace,1,1,2,2.506,1.953,54.62,L,0
+3754153,2015-12-19,17,Crystal Palace,Stoke City,0,2,1,1.953,2.506,45.38,W,3
+3754166,2015-12-19,17,Everton,Leicester City,1,2,3,1.691,2.371,67.27,L,0
+3754166,2015-12-19,17,Leicester City,Everton,0,3,2,2.371,1.691,32.73,W,3
+3754188,2015-12-19,17,Southampton,Tottenham Hotspur,1,0,2,1.046,1.292,50.45,L,0
+3754188,2015-12-19,17,Tottenham Hotspur,Southampton,0,2,0,1.292,1.046,49.55,W,3
+3754219,2015-12-19,17,West Bromwich Albion,AFC Bournemouth,1,1,2,0.35,1.786,33.98,L,0
+3754219,2015-12-19,17,AFC Bournemouth,West Bromwich Albion,0,2,1,1.786,0.35,66.02,W,3
+3754051,2015-12-20,17,Watford,Liverpool,1,3,0,1.894,0.63,35.11,W,3
+3754051,2015-12-20,17,Liverpool,Watford,0,0,3,0.63,1.894,64.89,L,0
+3754259,2015-12-20,17,Swansea City,West Ham United,1,0,0,1.071,0.428,71.5,D,1
+3754259,2015-12-20,17,West Ham United,Swansea City,0,0,0,0.428,1.071,28.5,D,1
+3754296,2015-12-21,17,Arsenal,Manchester City,1,2,1,1.354,1.25,39.33,W,3
+3754296,2015-12-21,17,Manchester City,Arsenal,0,1,2,1.25,1.354,60.67,L,0
+3753974,2015-12-26,18,Newcastle United,Everton,1,0,1,1.221,1.806,39.07,L,0
+3753974,2015-12-26,18,Everton,Newcastle United,0,1,0,1.806,1.221,60.93,W,3
+3754014,2015-12-26,18,Stoke City,Manchester United,1,2,0,1.075,1.277,41.71,W,3
+3754014,2015-12-26,18,Manchester United,Stoke City,0,0,2,1.277,1.075,58.29,L,0
+3754054,2015-12-26,18,Manchester City,Sunderland,1,4,1,2.724,1.244,63.66,W,3
+3754054,2015-12-26,18,Sunderland,Manchester City,0,1,4,1.244,2.724,36.34,L,0
+3754057,2015-12-26,18,Tottenham Hotspur,Norwich City,1,3,0,2.305,0.869,56.45,W,3
+3754057,2015-12-26,18,Norwich City,Tottenham Hotspur,0,0,3,0.869,2.305,43.55,L,0
+3754248,2015-12-26,18,AFC Bournemouth,Crystal Palace,1,0,0,0.83,0.563,52.82,D,1
+3754248,2015-12-26,18,Crystal Palace,AFC Bournemouth,0,0,0,0.563,0.83,47.18,D,1
+3754279,2015-12-26,18,Swansea City,West Bromwich Albion,1,1,0,0.978,0.619,53.82,W,3
+3754279,2015-12-26,18,West Bromwich Albion,Swansea City,0,0,1,0.619,0.978,46.18,L,0
+3754285,2015-12-26,18,Aston Villa,West Ham United,1,1,1,1.557,0.69,59.58,D,1
+3754285,2015-12-26,18,West Ham United,Aston Villa,0,1,1,0.69,1.557,40.42,D,1
+3754287,2015-12-26,18,Chelsea,Watford,1,2,2,2.216,1.609,63.07,D,1
+3754287,2015-12-26,18,Watford,Chelsea,0,2,2,1.609,2.216,36.93,D,1
+3754309,2015-12-26,18,Southampton,Arsenal,1,4,0,1.909,0.792,39.1,W,3
+3754309,2015-12-26,18,Arsenal,Southampton,0,0,4,0.792,1.909,60.9,L,0
+3754343,2015-12-26,18,Liverpool,Leicester City,1,1,0,1.777,0.801,66.39,W,3
+3754343,2015-12-26,18,Leicester City,Liverpool,0,0,1,0.801,1.777,33.61,L,0
+3753998,2015-12-28,19,West Ham United,Southampton,1,2,1,1.407,1.094,51.8,W,3
+3753998,2015-12-28,19,Southampton,West Ham United,0,1,2,1.094,1.407,48.2,L,0
+3754019,2015-12-28,19,Manchester United,Chelsea,1,0,0,1.289,0.876,65.18,D,1
+3754019,2015-12-28,19,Chelsea,Manchester United,0,0,0,0.876,1.289,34.82,D,1
+3754056,2015-12-28,19,Everton,Stoke City,1,3,4,2.258,1.464,51.96,L,0
+3754056,2015-12-28,19,Stoke City,Everton,0,4,3,1.464,2.258,48.04,W,3
+3754130,2015-12-28,19,Norwich City,Aston Villa,1,2,0,0.581,0.317,48.51,W,3
+3754130,2015-12-28,19,Aston Villa,Norwich City,0,0,2,0.317,0.581,51.49,L,0
+3754173,2015-12-28,19,Arsenal,AFC Bournemouth,1,2,0,1.752,0.347,50.03,W,3
+3754173,2015-12-28,19,AFC Bournemouth,Arsenal,0,0,2,0.347,1.752,49.97,L,0
+3754195,2015-12-28,19,West Bromwich Albion,Newcastle United,1,1,0,2.195,0.542,54.62,W,3
+3754195,2015-12-28,19,Newcastle United,West Bromwich Albion,0,0,1,0.542,2.195,45.38,L,0
+3754291,2015-12-28,19,Watford,Tottenham Hotspur,1,1,2,1.105,0.533,37.45,L,0
+3754291,2015-12-28,19,Tottenham Hotspur,Watford,0,2,1,0.533,1.105,62.55,W,3
+3754326,2015-12-28,19,Crystal Palace,Swansea City,1,0,0,0.648,0.186,55.06,D,1
+3754326,2015-12-28,19,Swansea City,Crystal Palace,0,0,0,0.186,0.648,44.94,D,1
+3754045,2015-12-29,19,Leicester City,Manchester City,1,0,0,0.888,1.696,39.65,D,1
+3754045,2015-12-29,19,Manchester City,Leicester City,0,0,0,1.696,0.888,60.35,D,1
+3754226,2015-12-30,19,Sunderland,Liverpool,1,0,1,0.536,1.791,43.59,L,0
+3754226,2015-12-30,19,Liverpool,Sunderland,0,1,0,1.791,0.536,56.41,W,3
+3754036,2016-01-02,20,Sunderland,Aston Villa,1,3,1,1.129,0.415,45.14,W,3
+3754036,2016-01-02,20,Aston Villa,Sunderland,0,1,3,0.415,1.129,54.86,L,0
+3754058,2016-01-02,20,Leicester City,AFC Bournemouth,1,0,0,2.823,0.937,52.51,D,1
+3754058,2016-01-02,20,AFC Bournemouth,Leicester City,0,0,0,0.937,2.823,47.49,D,1
+3754069,2016-01-02,20,Arsenal,Newcastle United,1,1,0,1.86,1.536,49.84,W,3
+3754069,2016-01-02,20,Newcastle United,Arsenal,0,0,1,1.536,1.86,50.16,L,0
+3754101,2016-01-02,20,Norwich City,Southampton,1,1,0,1.169,0.987,40.61,W,3
+3754101,2016-01-02,20,Southampton,Norwich City,0,0,1,0.987,1.169,59.39,L,0
+3754122,2016-01-02,20,West Bromwich Albion,Stoke City,1,2,1,2.532,0.841,51.97,W,3
+3754122,2016-01-02,20,Stoke City,West Bromwich Albion,0,1,2,0.841,2.532,48.03,L,0
+3754251,2016-01-02,20,West Ham United,Liverpool,1,2,0,2.162,1.816,37.6,W,3
+3754251,2016-01-02,20,Liverpool,West Ham United,0,0,2,1.816,2.162,62.4,L,0
+3754319,2016-01-02,20,Manchester United,Swansea City,1,2,1,1.511,0.622,54.05,W,3
+3754319,2016-01-02,20,Swansea City,Manchester United,0,1,2,0.622,1.511,45.95,L,0
+3754346,2016-01-02,20,Watford,Manchester City,1,1,2,1.081,0.943,47.6,L,0
+3754346,2016-01-02,20,Manchester City,Watford,0,2,1,0.943,1.081,52.4,W,3
+3754114,2016-01-03,20,Crystal Palace,Chelsea,1,0,3,0.92,1.876,42.36,L,0
+3754114,2016-01-03,20,Chelsea,Crystal Palace,0,3,0,1.876,0.92,57.64,W,3
+3754140,2016-01-03,20,Everton,Tottenham Hotspur,1,1,1,0.724,0.827,42.4,D,1
+3754140,2016-01-03,20,Tottenham Hotspur,Everton,0,1,1,0.827,0.724,57.6,D,1
+3753981,2016-01-12,21,Aston Villa,Crystal Palace,1,1,0,0.697,0.401,51.25,W,3
+3753981,2016-01-12,21,Crystal Palace,Aston Villa,0,0,1,0.401,0.697,48.75,L,0
+3754021,2016-01-12,21,AFC Bournemouth,West Ham United,1,1,3,0.424,0.76,48.67,L,0
+3754021,2016-01-12,21,West Ham United,AFC Bournemouth,0,3,1,0.76,0.424,51.33,W,3
+3754088,2016-01-12,21,Newcastle United,Manchester United,1,3,3,2.113,1.857,56.23,D,1
+3754088,2016-01-12,21,Manchester United,Newcastle United,0,3,3,1.857,2.113,43.77,D,1
+3754032,2016-01-13,21,Stoke City,Norwich City,1,3,1,1.503,0.328,65.12,W,3
+3754032,2016-01-13,21,Norwich City,Stoke City,0,1,3,0.328,1.503,34.88,L,0
+3754062,2016-01-13,21,Chelsea,West Bromwich Albion,1,2,2,1.426,0.902,62.79,D,1
+3754062,2016-01-13,21,West Bromwich Albion,Chelsea,0,2,2,0.902,1.426,37.21,D,1
+3754065,2016-01-13,21,Tottenham Hotspur,Leicester City,1,0,1,1.461,1.079,62.63,L,0
+3754065,2016-01-13,21,Leicester City,Tottenham Hotspur,0,1,0,1.079,1.461,37.37,W,3
+3754071,2016-01-13,21,Swansea City,Sunderland,1,2,4,1.294,2.182,51.75,L,0
+3754071,2016-01-13,21,Sunderland,Swansea City,0,4,2,2.182,1.294,48.25,W,3
+3754142,2016-01-13,21,Manchester City,Everton,1,0,0,1.365,0.344,56.03,D,1
+3754142,2016-01-13,21,Everton,Manchester City,0,0,0,0.344,1.365,43.97,D,1
+3754183,2016-01-13,21,Southampton,Watford,1,2,0,1.785,0.105,52.87,W,3
+3754183,2016-01-13,21,Watford,Southampton,0,0,2,0.105,1.785,47.13,L,0
+3754305,2016-01-13,21,Liverpool,Arsenal,1,3,3,1.19,1.767,61.62,D,1
+3754305,2016-01-13,21,Arsenal,Liverpool,0,3,3,1.767,1.19,38.38,D,1
+3754004,2016-01-16,22,AFC Bournemouth,Norwich City,1,3,0,2.261,0.429,45.17,W,3
+3754004,2016-01-16,22,Norwich City,AFC Bournemouth,0,0,3,0.429,2.261,54.83,L,0
+3754027,2016-01-16,22,Tottenham Hotspur,Sunderland,1,4,1,2.728,0.523,65.44,W,3
+3754027,2016-01-16,22,Sunderland,Tottenham Hotspur,0,1,4,0.523,2.728,34.56,L,0
+3754125,2016-01-16,22,Chelsea,Everton,1,3,3,2.169,1.346,54.26,D,1
+3754125,2016-01-16,22,Everton,Chelsea,0,3,3,1.346,2.169,45.74,D,1
+3754168,2016-01-16,22,Southampton,West Bromwich Albion,1,3,0,1.299,0.469,54.66,W,3
+3754168,2016-01-16,22,West Bromwich Albion,Southampton,0,0,3,0.469,1.299,45.34,L,0
+3754250,2016-01-16,22,Aston Villa,Leicester City,1,1,1,1.048,2.23,57.19,D,1
+3754250,2016-01-16,22,Leicester City,Aston Villa,0,1,1,2.23,1.048,42.81,D,1
+3754260,2016-01-16,22,Manchester City,Crystal Palace,1,4,0,1.872,0.938,51.43,W,3
+3754260,2016-01-16,22,Crystal Palace,Manchester City,0,0,4,0.938,1.872,48.57,L,0
+3754338,2016-01-16,22,Newcastle United,West Ham United,1,2,1,2.382,1.575,52.13,W,3
+3754338,2016-01-16,22,West Ham United,Newcastle United,0,1,2,1.575,2.382,47.87,L,0
+3754202,2016-01-17,22,Stoke City,Arsenal,1,0,0,0.924,0.492,45.98,D,1
+3754202,2016-01-17,22,Arsenal,Stoke City,0,0,0,0.492,0.924,54.02,D,1
+3754345,2016-01-17,22,Liverpool,Manchester United,1,0,1,1.419,0.509,53.05,L,0
+3754345,2016-01-17,22,Manchester United,Liverpool,0,1,0,0.509,1.419,46.95,W,3
+3754161,2016-01-18,22,Swansea City,Watford,1,1,0,0.49,0.588,58.82,W,3
+3754161,2016-01-18,22,Watford,Swansea City,0,0,1,0.588,0.49,41.18,L,0
+3753975,2016-01-23,23,Sunderland,AFC Bournemouth,1,1,1,0.49,1.183,43.38,D,1
+3753975,2016-01-23,23,AFC Bournemouth,Sunderland,0,1,1,1.183,0.49,56.62,D,1
+3754084,2016-01-23,23,West Bromwich Albion,Aston Villa,1,0,0,0.469,0.633,40.72,D,1
+3754084,2016-01-23,23,Aston Villa,West Bromwich Albion,0,0,0,0.633,0.469,59.28,D,1
+3754110,2016-01-23,23,West Ham United,Manchester City,1,2,2,0.914,1.82,49.01,D,1
+3754110,2016-01-23,23,Manchester City,West Ham United,0,2,2,1.82,0.914,50.99,D,1
+3754179,2016-01-23,23,Crystal Palace,Tottenham Hotspur,1,1,3,0.922,1.463,34.19,L,0
+3754179,2016-01-23,23,Tottenham Hotspur,Crystal Palace,0,3,1,1.463,0.922,65.81,W,3
+3754200,2016-01-23,23,Manchester United,Southampton,1,0,1,0.184,0.573,53.51,L,0
+3754200,2016-01-23,23,Southampton,Manchester United,0,1,0,0.573,0.184,46.49,W,3
+3754271,2016-01-23,23,Watford,Newcastle United,1,2,1,2.123,0.876,53.45,W,3
+3754271,2016-01-23,23,Newcastle United,Watford,0,1,2,0.876,2.123,46.55,L,0
+3754341,2016-01-23,23,Leicester City,Stoke City,1,3,0,1.875,0.152,45.47,W,3
+3754341,2016-01-23,23,Stoke City,Leicester City,0,0,3,0.152,1.875,54.53,L,0
+3754348,2016-01-23,23,Norwich City,Liverpool,1,4,5,1.229,1.622,48.15,L,0
+3754348,2016-01-23,23,Liverpool,Norwich City,0,5,4,1.622,1.229,51.85,W,3
+3754111,2016-01-24,23,Arsenal,Chelsea,1,0,1,1.149,1.183,51.49,L,0
+3754111,2016-01-24,23,Chelsea,Arsenal,0,1,0,1.183,1.149,48.51,W,3
+3754163,2016-01-24,23,Everton,Swansea City,1,1,2,1.555,1.257,59.09,L,0
+3754163,2016-01-24,23,Swansea City,Everton,0,2,1,1.257,1.555,40.91,W,3
+3753997,2016-02-02,24,West Ham United,Aston Villa,1,2,0,2.668,0.159,67.75,W,3
+3753997,2016-02-02,24,Aston Villa,West Ham United,0,0,2,0.159,2.668,32.25,L,0
+3754089,2016-02-02,24,Crystal Palace,AFC Bournemouth,1,1,2,1.543,0.752,55.0,L,0
+3754089,2016-02-02,24,AFC Bournemouth,Crystal Palace,0,2,1,0.752,1.543,45.0,W,3
+3754094,2016-02-02,24,Manchester United,Stoke City,1,3,0,2.46,0.617,46.48,W,3
+3754094,2016-02-02,24,Stoke City,Manchester United,0,0,3,0.617,2.46,53.52,L,0
+3754095,2016-02-02,24,Sunderland,Manchester City,1,0,1,1.186,0.583,50.3,L,0
+3754095,2016-02-02,24,Manchester City,Sunderland,0,1,0,0.583,1.186,49.7,W,3
+3754201,2016-02-02,24,Arsenal,Southampton,1,0,0,2.434,0.988,62.53,D,1
+3754201,2016-02-02,24,Southampton,Arsenal,0,0,0,0.988,2.434,37.47,D,1
+3754275,2016-02-02,24,Leicester City,Liverpool,1,2,0,1.208,0.455,34.85,W,3
+3754275,2016-02-02,24,Liverpool,Leicester City,0,0,2,0.455,1.208,65.15,L,0
+3754317,2016-02-02,24,Norwich City,Tottenham Hotspur,1,0,3,1.175,2.518,46.06,L,0
+3754317,2016-02-02,24,Tottenham Hotspur,Norwich City,0,3,0,2.518,1.175,53.94,W,3
+3754340,2016-02-02,24,West Bromwich Albion,Swansea City,1,1,1,2.192,1.496,47.94,D,1
+3754340,2016-02-02,24,Swansea City,West Bromwich Albion,0,1,1,1.496,2.192,52.06,D,1
+3754103,2016-02-03,24,Watford,Chelsea,1,0,0,0.901,0.939,46.51,D,1
+3754103,2016-02-03,24,Chelsea,Watford,0,0,0,0.939,0.901,53.49,D,1
+3754252,2016-02-03,24,Everton,Newcastle United,1,3,0,3.107,0.622,59.05,W,3
+3754252,2016-02-03,24,Newcastle United,Everton,0,0,3,0.622,3.107,40.95,L,0
+3754080,2016-02-06,25,Tottenham Hotspur,Watford,1,1,0,2.213,0.095,64.76,W,3
+3754080,2016-02-06,25,Watford,Tottenham Hotspur,0,0,1,0.095,2.213,35.24,L,0
+3754120,2016-02-06,25,Southampton,West Ham United,1,1,0,0.812,0.877,33.44,W,3
+3754120,2016-02-06,25,West Ham United,Southampton,0,0,1,0.877,0.812,66.56,L,0
+3754127,2016-02-06,25,Stoke City,Everton,1,0,3,0.675,2.663,66.32,L,0
+3754127,2016-02-06,25,Everton,Stoke City,0,3,0,2.663,0.675,33.68,W,3
+3754290,2016-02-06,25,Manchester City,Leicester City,1,1,3,1.094,1.64,65.31,L,0
+3754290,2016-02-06,25,Leicester City,Manchester City,0,3,1,1.64,1.094,34.69,W,3
+3754292,2016-02-06,25,Newcastle United,West Bromwich Albion,1,1,0,1.526,0.49,68.85,W,3
+3754292,2016-02-06,25,West Bromwich Albion,Newcastle United,0,0,1,0.49,1.526,31.15,L,0
+3754303,2016-02-06,25,Swansea City,Crystal Palace,1,1,1,1.827,0.893,59.34,D,1
+3754303,2016-02-06,25,Crystal Palace,Swansea City,0,1,1,0.893,1.827,40.66,D,1
+3754306,2016-02-06,25,Aston Villa,Norwich City,1,2,0,0.741,1.146,49.21,W,3
+3754306,2016-02-06,25,Norwich City,Aston Villa,0,0,2,1.146,0.741,50.79,L,0
+3754316,2016-02-06,25,Liverpool,Sunderland,1,2,2,1.821,0.541,72.27,D,1
+3754316,2016-02-06,25,Sunderland,Liverpool,0,2,2,0.541,1.821,27.73,D,1
+3754253,2016-02-07,25,AFC Bournemouth,Arsenal,1,0,2,0.665,0.757,51.98,L,0
+3754253,2016-02-07,25,Arsenal,AFC Bournemouth,0,2,0,0.757,0.665,48.02,W,3
+3754281,2016-02-07,25,Chelsea,Manchester United,1,1,1,1.859,0.807,49.02,D,1
+3754281,2016-02-07,25,Manchester United,Chelsea,0,1,1,0.807,1.859,50.98,D,1
+3754031,2016-02-13,26,Sunderland,Manchester United,1,2,1,1.808,0.951,33.15,W,3
+3754031,2016-02-13,26,Manchester United,Sunderland,0,1,2,0.951,1.808,66.85,L,0
+3754039,2016-02-13,26,Crystal Palace,Watford,1,1,2,1.142,1.704,57.84,L,0
+3754039,2016-02-13,26,Watford,Crystal Palace,0,2,1,1.704,1.142,42.16,W,3
+3754139,2016-02-13,26,Swansea City,Southampton,1,0,1,0.594,1.157,58.73,L,0
+3754139,2016-02-13,26,Southampton,Swansea City,0,1,0,1.157,0.594,41.27,W,3
+3754244,2016-02-13,26,Norwich City,West Ham United,1,2,2,1.206,1.671,43.71,D,1
+3754244,2016-02-13,26,West Ham United,Norwich City,0,2,2,1.671,1.206,56.29,D,1
+3754264,2016-02-13,26,Chelsea,Newcastle United,1,5,1,2.241,0.652,51.12,W,3
+3754264,2016-02-13,26,Newcastle United,Chelsea,0,1,5,0.652,2.241,48.88,L,0
+3754274,2016-02-13,26,AFC Bournemouth,Stoke City,1,1,3,1.232,0.672,65.09,L,0
+3754274,2016-02-13,26,Stoke City,AFC Bournemouth,0,3,1,0.672,1.232,34.91,W,3
+3754350,2016-02-13,26,Everton,West Bromwich Albion,1,0,1,1.795,0.987,77.53,L,0
+3754350,2016-02-13,26,West Bromwich Albion,Everton,0,1,0,0.987,1.795,22.47,W,3
+3754147,2016-02-14,26,Manchester City,Tottenham Hotspur,1,1,2,1.987,1.256,47.23,L,0
+3754147,2016-02-14,26,Tottenham Hotspur,Manchester City,0,2,1,1.256,1.987,52.77,W,3
+3754214,2016-02-14,26,Aston Villa,Liverpool,1,0,6,0.227,2.648,39.48,L,0
+3754214,2016-02-14,26,Liverpool,Aston Villa,0,6,0,2.648,0.227,60.52,W,3
+3754261,2016-02-14,26,Arsenal,Leicester City,1,2,1,2.746,1.101,69.6,W,3
+3754261,2016-02-14,26,Leicester City,Arsenal,0,1,2,1.101,2.746,30.4,L,0
+3754012,2016-02-27,27,Southampton,Chelsea,1,1,2,1.067,1.41,36.78,L,0
+3754012,2016-02-27,27,Chelsea,Southampton,0,2,1,1.41,1.067,63.22,W,3
+3754049,2016-02-27,27,Leicester City,Norwich City,1,1,0,1.999,0.638,60.2,W,3
+3754049,2016-02-27,27,Norwich City,Leicester City,0,0,1,0.638,1.999,39.8,L,0
+3754121,2016-02-27,27,Watford,AFC Bournemouth,1,0,0,0.909,1.156,44.27,D,1
+3754121,2016-02-27,27,AFC Bournemouth,Watford,0,0,0,1.156,0.909,55.73,D,1
+3754236,2016-02-27,27,West Bromwich Albion,Crystal Palace,1,3,2,1.159,1.328,44.9,W,3
+3754236,2016-02-27,27,Crystal Palace,West Bromwich Albion,0,2,3,1.328,1.159,55.1,L,0
+3754321,2016-02-27,27,Stoke City,Aston Villa,1,2,1,2.59,0.183,52.79,W,3
+3754321,2016-02-27,27,Aston Villa,Stoke City,0,1,2,0.183,2.59,47.21,L,0
+3754331,2016-02-27,27,West Ham United,Sunderland,1,1,0,0.865,1.131,50.19,W,3
+3754331,2016-02-27,27,Sunderland,West Ham United,0,0,1,1.131,0.865,49.81,L,0
+3754239,2016-02-28,27,Manchester United,Arsenal,1,3,2,0.445,1.434,39.3,W,3
+3754239,2016-02-28,27,Arsenal,Manchester United,0,2,3,1.434,0.445,60.7,L,0
+3754324,2016-02-28,27,Tottenham Hotspur,Swansea City,1,2,1,3.219,1.375,59.76,W,3
+3754324,2016-02-28,27,Swansea City,Tottenham Hotspur,0,1,2,1.375,3.219,40.24,L,0
+3754050,2016-03-01,28,Sunderland,Crystal Palace,1,2,2,1.056,1.119,60.67,D,1
+3754050,2016-03-01,28,Crystal Palace,Sunderland,0,2,2,1.119,1.056,39.33,D,1
+3754231,2016-03-01,28,Leicester City,West Bromwich Albion,1,2,2,2.183,1.148,68.48,D,1
+3754231,2016-03-01,28,West Bromwich Albion,Leicester City,0,2,2,1.148,2.183,31.52,D,1
+3754280,2016-03-01,28,Norwich City,Chelsea,1,1,2,1.082,0.99,49.07,L,0
+3754280,2016-03-01,28,Chelsea,Norwich City,0,2,1,0.99,1.082,50.93,W,3
+3754327,2016-03-01,28,Aston Villa,Everton,1,1,3,0.629,1.871,44.65,L,0
+3754327,2016-03-01,28,Everton,Aston Villa,0,3,1,1.871,0.629,55.35,W,3
+3754334,2016-03-01,28,AFC Bournemouth,Southampton,1,2,0,0.71,0.532,46.08,W,3
+3754334,2016-03-01,28,Southampton,AFC Bournemouth,0,0,2,0.532,0.71,53.92,L,0
+3753976,2016-03-02,28,Arsenal,Swansea City,1,1,2,1.327,1.174,61.13,L,0
+3753976,2016-03-02,28,Swansea City,Arsenal,0,2,1,1.174,1.327,38.87,W,3
+3753991,2016-03-02,28,Liverpool,Manchester City,1,3,0,1.123,0.208,49.73,W,3
+3753991,2016-03-02,28,Manchester City,Liverpool,0,0,3,0.208,1.123,50.27,L,0
+3754005,2016-03-02,28,Stoke City,Newcastle United,1,1,0,0.28,0.404,54.53,W,3
+3754005,2016-03-02,28,Newcastle United,Stoke City,0,0,1,0.404,0.28,45.47,L,0
+3754232,2016-03-02,28,Manchester United,Watford,1,1,0,0.717,1.858,64.95,W,3
+3754232,2016-03-02,28,Watford,Manchester United,0,0,1,1.858,0.717,35.05,L,0
+3754349,2016-03-02,28,West Ham United,Tottenham Hotspur,1,1,0,0.806,1.133,40.63,W,3
+3754349,2016-03-02,28,Tottenham Hotspur,West Ham United,0,0,1,1.133,0.806,59.37,L,0
+3754061,2016-03-05,29,Chelsea,Stoke City,1,1,1,1.376,1.515,49.64,D,1
+3754061,2016-03-05,29,Stoke City,Chelsea,0,1,1,1.515,1.376,50.36,D,1
+3754151,2016-03-05,29,Swansea City,Norwich City,1,1,0,0.479,0.697,54.35,W,3
+3754151,2016-03-05,29,Norwich City,Swansea City,0,0,1,0.697,0.479,45.65,L,0
+3754164,2016-03-05,29,Southampton,Sunderland,1,1,1,1.58,0.788,64.39,D,1
+3754164,2016-03-05,29,Sunderland,Southampton,0,1,1,0.788,1.58,35.61,D,1
+3754177,2016-03-05,29,Newcastle United,AFC Bournemouth,1,1,3,1.088,1.129,48.01,L,0
+3754177,2016-03-05,29,AFC Bournemouth,Newcastle United,0,3,1,1.129,1.088,51.99,W,3
+3754249,2016-03-05,29,Manchester City,Aston Villa,1,4,0,3.26,0.452,69.98,W,3
+3754249,2016-03-05,29,Aston Villa,Manchester City,0,0,4,0.452,3.26,30.02,L,0
+3754277,2016-03-05,29,Everton,West Ham United,1,2,3,1.715,1.686,42.73,L,0
+3754277,2016-03-05,29,West Ham United,Everton,0,3,2,1.686,1.715,57.27,W,3
+3754289,2016-03-05,29,Watford,Leicester City,1,0,1,0.958,1.537,53.26,L,0
+3754289,2016-03-05,29,Leicester City,Watford,0,1,0,1.537,0.958,46.74,W,3
+3754318,2016-03-05,29,Tottenham Hotspur,Arsenal,1,2,2,1.249,0.733,49.53,D,1
+3754318,2016-03-05,29,Arsenal,Tottenham Hotspur,0,2,2,0.733,1.249,50.47,D,1
+3754081,2016-03-06,29,West Bromwich Albion,Manchester United,1,1,0,0.723,0.379,47.58,W,3
+3754081,2016-03-06,29,Manchester United,West Bromwich Albion,0,0,1,0.379,0.723,52.42,L,0
+3754220,2016-03-06,29,Crystal Palace,Liverpool,1,1,2,1.175,1.799,38.65,L,0
+3754220,2016-03-06,29,Liverpool,Crystal Palace,0,2,1,1.799,1.175,61.35,W,3
+3753988,2016-03-12,30,AFC Bournemouth,Swansea City,1,3,2,0.962,1.529,42.03,W,3
+3753988,2016-03-12,30,Swansea City,AFC Bournemouth,0,2,3,1.529,0.962,57.97,L,0
+3754196,2016-03-12,30,Stoke City,Southampton,1,1,2,0.942,0.575,61.49,L,0
+3754196,2016-03-12,30,Southampton,Stoke City,0,2,1,0.575,0.942,38.51,W,3
+3754313,2016-03-12,30,Norwich City,Manchester City,1,0,0,0.218,0.776,31.78,D,1
+3754313,2016-03-12,30,Manchester City,Norwich City,0,0,0,0.776,0.218,68.22,D,1
+3754053,2016-03-13,30,Aston Villa,Tottenham Hotspur,1,0,2,1.184,2.132,36.25,L,0
+3754053,2016-03-13,30,Tottenham Hotspur,Aston Villa,0,2,0,2.132,1.184,63.75,W,3
+3754002,2016-03-14,30,Leicester City,Newcastle United,1,1,0,0.931,0.873,47.06,W,3
+3754002,2016-03-14,30,Newcastle United,Leicester City,0,0,1,0.873,0.931,52.94,L,0
+3753973,2016-03-19,31,Chelsea,West Ham United,1,2,2,2.405,0.886,58.08,D,1
+3753973,2016-03-19,31,West Ham United,Chelsea,0,2,2,0.886,2.405,41.92,D,1
+3753977,2016-03-19,31,Watford,Stoke City,1,1,2,0.722,1.428,53.83,L,0
+3753977,2016-03-19,31,Stoke City,Watford,0,2,1,1.428,0.722,46.17,W,3
+3753980,2016-03-19,31,Everton,Arsenal,1,0,2,0.459,1.83,55.78,L,0
+3753980,2016-03-19,31,Arsenal,Everton,0,2,0,1.83,0.459,44.22,W,3
+3754052,2016-03-19,31,West Bromwich Albion,Norwich City,1,0,1,0.458,0.698,47.64,L,0
+3754052,2016-03-19,31,Norwich City,West Bromwich Albion,0,1,0,0.698,0.458,52.36,W,3
+3754181,2016-03-19,31,Crystal Palace,Leicester City,1,0,1,0.611,1.321,58.48,L,0
+3754181,2016-03-19,31,Leicester City,Crystal Palace,0,1,0,1.321,0.611,41.52,W,3
+3754224,2016-03-19,31,Swansea City,Aston Villa,1,1,0,0.591,1.072,53.72,W,3
+3754224,2016-03-19,31,Aston Villa,Swansea City,0,0,1,1.072,0.591,46.28,L,0
+3754043,2016-03-20,31,Tottenham Hotspur,AFC Bournemouth,1,3,0,1.533,0.254,57.52,W,3
+3754043,2016-03-20,31,AFC Bournemouth,Tottenham Hotspur,0,0,3,0.254,1.533,42.48,L,0
+3754064,2016-03-20,31,Southampton,Liverpool,1,3,2,1.934,1.509,48.05,W,3
+3754064,2016-03-20,31,Liverpool,Southampton,0,2,3,1.509,1.934,51.95,L,0
+3754100,2016-03-20,31,Newcastle United,Sunderland,1,1,1,1.488,0.605,56.63,D,1
+3754100,2016-03-20,31,Sunderland,Newcastle United,0,1,1,0.605,1.488,43.37,D,1
+3754124,2016-03-20,31,Manchester City,Manchester United,1,0,1,1.965,0.524,55.98,L,0
+3754124,2016-03-20,31,Manchester United,Manchester City,0,1,0,0.524,1.965,44.02,W,3
+3754075,2016-04-02,32,Aston Villa,Chelsea,1,0,4,0.969,2.144,45.53,L,0
+3754075,2016-04-02,32,Chelsea,Aston Villa,0,4,0,2.144,0.969,54.47,W,3
+3754087,2016-04-02,32,Liverpool,Tottenham Hotspur,1,1,1,1.266,1.69,41.47,D,1
+3754087,2016-04-02,32,Tottenham Hotspur,Liverpool,0,1,1,1.69,1.266,58.53,D,1
+3754118,2016-04-02,32,Arsenal,Watford,1,4,0,2.577,0.432,67.77,W,3
+3754118,2016-04-02,32,Watford,Arsenal,0,0,4,0.432,2.577,32.23,L,0
+3754144,2016-04-02,32,AFC Bournemouth,Manchester City,1,0,4,1.145,0.771,47.84,L,0
+3754144,2016-04-02,32,Manchester City,AFC Bournemouth,0,4,0,0.771,1.145,52.16,W,3
+3754175,2016-04-02,32,Sunderland,West Bromwich Albion,1,0,0,2.203,0.149,55.95,D,1
+3754175,2016-04-02,32,West Bromwich Albion,Sunderland,0,0,0,0.149,2.203,44.05,D,1
+3754176,2016-04-02,32,West Ham United,Crystal Palace,1,2,2,1.446,1.532,66.92,D,1
+3754176,2016-04-02,32,Crystal Palace,West Ham United,0,2,2,1.532,1.446,33.08,D,1
+3754243,2016-04-02,32,Norwich City,Newcastle United,1,3,2,1.528,2.071,44.27,W,3
+3754243,2016-04-02,32,Newcastle United,Norwich City,0,2,3,2.071,1.528,55.73,L,0
+3754272,2016-04-02,32,Stoke City,Swansea City,1,2,2,0.873,0.495,49.02,D,1
+3754272,2016-04-02,32,Swansea City,Stoke City,0,2,2,0.495,0.873,50.98,D,1
+3753982,2016-04-03,32,Leicester City,Southampton,1,1,0,1.238,0.518,47.53,W,3
+3753982,2016-04-03,32,Southampton,Leicester City,0,0,1,0.518,1.238,52.47,L,0
+3754299,2016-04-03,32,Manchester United,Everton,1,1,0,0.864,0.575,51.34,W,3
+3754299,2016-04-03,32,Everton,Manchester United,0,0,1,0.575,0.864,48.66,L,0
+3754016,2016-04-09,33,Southampton,Newcastle United,1,3,1,1.939,0.269,50.23,W,3
+3754016,2016-04-09,33,Newcastle United,Southampton,0,1,3,0.269,1.939,49.77,L,0
+3754022,2016-04-09,33,Crystal Palace,Norwich City,1,1,0,1.282,1.031,47.28,W,3
+3754022,2016-04-09,33,Norwich City,Crystal Palace,0,0,1,1.031,1.282,52.72,L,0
+3754030,2016-04-09,33,Watford,Everton,1,1,1,0.552,1.406,41.41,D,1
+3754030,2016-04-09,33,Everton,Watford,0,1,1,1.406,0.552,58.59,D,1
+3754035,2016-04-09,33,Manchester City,West Bromwich Albion,1,2,1,2.088,1.204,60.67,W,3
+3754035,2016-04-09,33,West Bromwich Albion,Manchester City,0,1,2,1.204,2.088,39.33,L,0
+3754116,2016-04-09,33,Swansea City,Chelsea,1,1,0,1.826,1.657,41.51,W,3
+3754116,2016-04-09,33,Chelsea,Swansea City,0,0,1,1.657,1.826,58.49,L,0
+3754241,2016-04-09,33,West Ham United,Arsenal,1,3,3,1.258,1.843,42.42,D,1
+3754241,2016-04-09,33,Arsenal,West Ham United,0,3,3,1.843,1.258,57.58,D,1
+3754262,2016-04-09,33,Aston Villa,AFC Bournemouth,1,1,2,0.443,1.018,40.48,L,0
+3754262,2016-04-09,33,AFC Bournemouth,Aston Villa,0,2,1,1.018,0.443,59.52,W,3
+3753986,2016-04-10,33,Liverpool,Stoke City,1,4,1,1.905,0.586,49.38,W,3
+3753986,2016-04-10,33,Stoke City,Liverpool,0,1,4,0.586,1.905,50.62,L,0
+3754152,2016-04-10,33,Sunderland,Leicester City,1,0,2,0.784,3.008,45.46,L,0
+3754152,2016-04-10,33,Leicester City,Sunderland,0,2,0,3.008,0.784,54.54,W,3
+3754209,2016-04-10,33,Tottenham Hotspur,Manchester United,1,3,0,1.813,0.508,51.59,W,3
+3754209,2016-04-10,33,Manchester United,Tottenham Hotspur,0,0,3,0.508,1.813,48.41,L,0
+3754048,2016-04-13,35,Crystal Palace,Everton,1,0,0,2.665,0.592,54.16,D,1
+3754048,2016-04-13,35,Everton,Crystal Palace,0,0,0,0.592,2.665,45.84,D,1
+3754024,2016-04-16,34,Newcastle United,Swansea City,1,3,0,1.05,1.111,35.9,W,3
+3754024,2016-04-16,34,Swansea City,Newcastle United,0,0,3,1.111,1.05,64.1,L,0
+3754137,2016-04-16,34,Everton,Southampton,1,1,1,0.321,1.453,49.14,D,1
+3754137,2016-04-16,34,Southampton,Everton,0,1,1,1.453,0.321,50.86,D,1
+3754155,2016-04-16,34,West Bromwich Albion,Watford,1,0,1,2.456,0.468,60.73,L,0
+3754155,2016-04-16,34,Watford,West Bromwich Albion,0,1,0,0.468,2.456,39.27,W,3
+3754172,2016-04-16,34,Norwich City,Sunderland,1,0,3,1.275,1.777,63.41,L,0
+3754172,2016-04-16,34,Sunderland,Norwich City,0,3,0,1.777,1.275,36.59,W,3
+3754295,2016-04-16,34,Manchester United,Aston Villa,1,1,0,1.349,0.347,64.46,W,3
+3754295,2016-04-16,34,Aston Villa,Manchester United,0,0,1,0.347,1.349,35.54,L,0
+3754322,2016-04-16,34,Chelsea,Manchester City,1,0,3,0.985,2.326,50.6,L,0
+3754322,2016-04-16,34,Manchester City,Chelsea,0,3,0,2.326,0.985,49.4,W,3
+3754009,2016-04-17,34,Arsenal,Crystal Palace,1,1,1,1.737,0.388,69.64,D,1
+3754009,2016-04-17,34,Crystal Palace,Arsenal,0,1,1,0.388,1.737,30.36,D,1
+3754216,2016-04-17,34,AFC Bournemouth,Liverpool,1,1,2,1.612,1.817,51.31,L,0
+3754216,2016-04-17,34,Liverpool,AFC Bournemouth,0,2,1,1.817,1.612,48.69,W,3
+3754227,2016-04-17,34,Leicester City,West Ham United,1,2,2,1.3,1.804,42.47,D,1
+3754227,2016-04-17,34,West Ham United,Leicester City,0,2,2,1.804,1.3,57.53,D,1
+3754187,2016-04-18,34,Stoke City,Tottenham Hotspur,1,0,4,0.706,3.487,49.72,L,0
+3754187,2016-04-18,34,Tottenham Hotspur,Stoke City,0,4,0,3.487,0.706,50.28,W,3
+3754206,2016-04-19,27,Newcastle United,Manchester City,1,1,1,0.602,0.678,41.34,D,1
+3754206,2016-04-19,27,Manchester City,Newcastle United,0,1,1,0.678,0.602,58.66,D,1
+3754086,2016-04-20,30,West Ham United,Watford,1,3,1,3.638,1.322,51.01,W,3
+3754086,2016-04-20,30,Watford,West Ham United,0,1,3,1.322,3.638,48.99,L,0
+3754294,2016-04-20,27,Liverpool,Everton,1,4,0,3.529,0.123,65.21,W,3
+3754294,2016-04-20,27,Everton,Liverpool,0,0,4,0.123,3.529,34.79,L,0
+3754310,2016-04-20,30,Manchester United,Crystal Palace,1,2,0,1.391,0.221,61.94,W,3
+3754310,2016-04-20,30,Crystal Palace,Manchester United,0,0,2,0.221,1.391,38.06,L,0
+3754284,2016-04-21,30,Arsenal,West Bromwich Albion,1,2,0,1.319,0.734,68.0,W,3
+3754284,2016-04-21,30,West Bromwich Albion,Arsenal,0,0,2,0.734,1.319,32.0,L,0
+3754154,2016-04-23,35,Liverpool,Newcastle United,1,2,2,0.718,0.395,66.98,D,1
+3754154,2016-04-23,35,Newcastle United,Liverpool,0,2,2,0.395,0.718,33.02,D,1
+3754242,2016-04-23,35,AFC Bournemouth,Chelsea,1,1,4,0.749,1.285,45.47,L,0
+3754242,2016-04-23,35,Chelsea,AFC Bournemouth,0,4,1,1.285,0.749,54.53,W,3
+3754282,2016-04-23,35,Aston Villa,Southampton,1,2,4,1.388,3.015,44.06,L,0
+3754282,2016-04-23,35,Southampton,Aston Villa,0,4,2,3.015,1.388,55.94,W,3
+3754307,2016-04-23,35,Manchester City,Stoke City,1,4,0,2.975,1.023,51.55,W,3
+3754307,2016-04-23,35,Stoke City,Manchester City,0,0,4,1.023,2.975,48.45,L,0
+3753990,2016-04-24,35,Sunderland,Arsenal,1,0,0,0.502,1.338,29.39,D,1
+3753990,2016-04-24,35,Arsenal,Sunderland,0,0,0,1.338,0.502,70.61,D,1
+3754228,2016-04-24,35,Leicester City,Swansea City,1,4,0,2.509,0.44,38.05,W,3
+3754228,2016-04-24,35,Swansea City,Leicester City,0,0,4,0.44,2.509,61.95,L,0
+3754332,2016-04-25,35,Tottenham Hotspur,West Bromwich Albion,1,1,1,1.06,0.904,68.59,D,1
+3754332,2016-04-25,35,West Bromwich Albion,Tottenham Hotspur,0,1,1,0.904,1.06,31.41,D,1
+3754037,2016-04-30,36,Everton,AFC Bournemouth,1,2,1,0.891,1.43,53.28,W,3
+3754037,2016-04-30,36,AFC Bournemouth,Everton,0,1,2,1.43,0.891,46.72,L,0
+3754063,2016-04-30,36,Watford,Aston Villa,1,3,2,1.132,0.617,65.48,W,3
+3754063,2016-04-30,36,Aston Villa,Watford,0,2,3,0.617,1.132,34.52,L,0
+3754132,2016-04-30,36,Stoke City,Sunderland,1,1,1,0.725,1.803,56.52,D,1
+3754132,2016-04-30,36,Sunderland,Stoke City,0,1,1,1.803,0.725,43.48,D,1
+3754170,2016-04-30,36,Newcastle United,Crystal Palace,1,1,0,0.446,1.069,46.38,W,3
+3754170,2016-04-30,36,Crystal Palace,Newcastle United,0,0,1,1.069,0.446,53.62,L,0
+3754184,2016-04-30,36,Arsenal,Norwich City,1,1,0,0.815,0.815,66.76,W,3
+3754184,2016-04-30,36,Norwich City,Arsenal,0,0,1,0.815,0.815,33.24,L,0
+3754192,2016-04-30,36,West Bromwich Albion,West Ham United,1,0,3,1.202,0.841,45.06,L,0
+3754192,2016-04-30,36,West Ham United,West Bromwich Albion,0,3,0,0.841,1.202,54.94,W,3
+3754018,2016-05-01,36,Swansea City,Liverpool,1,3,1,1.835,0.783,44.58,W,3
+3754018,2016-05-01,36,Liverpool,Swansea City,0,1,3,0.783,1.835,55.42,L,0
+3754165,2016-05-01,36,Manchester United,Leicester City,1,1,1,1.25,1.132,71.27,D,1
+3754165,2016-05-01,36,Leicester City,Manchester United,0,1,1,1.132,1.25,28.73,D,1
+3754320,2016-05-01,36,Southampton,Manchester City,1,4,2,3.034,0.756,38.49,W,3
+3754320,2016-05-01,36,Manchester City,Southampton,0,2,4,0.756,3.034,61.51,L,0
+3754092,2016-05-02,36,Chelsea,Tottenham Hotspur,1,2,2,0.775,2.321,46.24,D,1
+3754092,2016-05-02,36,Tottenham Hotspur,Chelsea,0,2,2,2.321,0.775,53.76,D,1
+3754026,2016-05-07,37,Crystal Palace,Stoke City,1,2,1,1.239,1.196,60.51,W,3
+3754026,2016-05-07,37,Stoke City,Crystal Palace,0,1,2,1.196,1.239,39.49,L,0
+3754033,2016-05-07,37,Leicester City,Everton,1,3,1,4.438,1.381,40.6,W,3
+3754033,2016-05-07,37,Everton,Leicester City,0,1,3,1.381,4.438,59.4,L,0
+3754070,2016-05-07,37,Aston Villa,Newcastle United,1,0,0,0.015,0.965,48.0,D,1
+3754070,2016-05-07,37,Newcastle United,Aston Villa,0,0,0,0.965,0.015,52.0,D,1
+3754108,2016-05-07,37,Sunderland,Chelsea,1,3,2,0.966,1.158,31.54,W,3
+3754108,2016-05-07,37,Chelsea,Sunderland,0,2,3,1.158,0.966,68.46,L,0
+3754158,2016-05-07,37,West Ham United,Swansea City,1,1,4,2.839,2.764,53.47,L,0
+3754158,2016-05-07,37,Swansea City,West Ham United,0,4,1,2.764,2.839,46.53,W,3
+3754210,2016-05-07,37,Norwich City,Manchester United,1,0,1,0.757,1.313,34.47,L,0
+3754210,2016-05-07,37,Manchester United,Norwich City,0,1,0,1.313,0.757,65.53,W,3
+3754225,2016-05-07,37,AFC Bournemouth,West Bromwich Albion,1,1,1,0.982,1.688,66.15,D,1
+3754225,2016-05-07,37,West Bromwich Albion,AFC Bournemouth,0,1,1,1.688,0.982,33.85,D,1
+3753992,2016-05-08,37,Tottenham Hotspur,Southampton,1,1,2,2.337,0.945,73.62,L,0
+3753992,2016-05-08,37,Southampton,Tottenham Hotspur,0,2,1,0.945,2.337,26.38,W,3
+3754314,2016-05-08,37,Manchester City,Arsenal,1,2,2,0.738,0.887,59.05,D,1
+3754314,2016-05-08,37,Arsenal,Manchester City,0,2,2,0.887,0.738,40.95,D,1
+3754342,2016-05-08,37,Liverpool,Watford,1,2,0,3.139,1.253,66.95,W,3
+3754342,2016-05-08,37,Watford,Liverpool,0,0,2,1.253,3.139,33.05,L,0
+3754134,2016-05-10,35,West Ham United,Manchester United,1,3,2,1.911,0.83,42.24,W,3
+3754134,2016-05-10,35,Manchester United,West Ham United,0,2,3,0.83,1.911,57.76,L,0
+3753989,2016-05-11,30,Sunderland,Everton,1,3,0,1.991,1.134,42.2,W,3
+3753989,2016-05-11,30,Everton,Sunderland,0,0,3,1.134,1.991,57.8,L,0
+3754055,2016-05-11,30,Liverpool,Chelsea,1,1,1,2.43,0.735,55.74,D,1
+3754055,2016-05-11,30,Chelsea,Liverpool,0,1,1,0.735,2.43,44.26,D,1
+3754207,2016-05-11,35,Norwich City,Watford,1,4,2,2.415,2.093,58.53,W,3
+3754207,2016-05-11,35,Watford,Norwich City,0,2,4,2.093,2.415,41.47,L,0
+3753994,2016-05-15,38,Southampton,Crystal Palace,1,4,1,2.392,1.296,49.33,W,3
+3753994,2016-05-15,38,Crystal Palace,Southampton,0,1,4,1.296,2.392,50.67,L,0
+3754041,2016-05-15,38,Arsenal,Aston Villa,1,4,0,2.923,0.301,55.88,W,3
+3754041,2016-05-15,38,Aston Villa,Arsenal,0,0,4,0.301,2.923,44.12,L,0
+3754042,2016-05-15,38,West Bromwich Albion,Liverpool,1,1,1,1.608,0.525,33.55,D,1
+3754042,2016-05-15,38,Liverpool,West Bromwich Albion,0,1,1,0.525,1.608,66.45,D,1
+3754123,2016-05-15,38,Everton,Norwich City,1,3,0,2.27,0.743,46.8,W,3
+3754123,2016-05-15,38,Norwich City,Everton,0,0,3,0.743,2.27,53.2,L,0
+3754149,2016-05-15,38,Swansea City,Manchester City,1,1,1,0.179,2.491,51.18,D,1
+3754149,2016-05-15,38,Manchester City,Swansea City,0,1,1,2.491,0.179,48.82,D,1
+3754199,2016-05-15,38,Stoke City,West Ham United,1,2,1,0.431,2.737,43.89,W,3
+3754199,2016-05-15,38,West Ham United,Stoke City,0,1,2,2.737,0.431,56.11,L,0
+3754229,2016-05-15,38,Chelsea,Leicester City,1,1,1,1.896,1.727,53.56,D,1
+3754229,2016-05-15,38,Leicester City,Chelsea,0,1,1,1.727,1.896,46.44,D,1
+3754308,2016-05-15,38,Watford,Sunderland,1,2,2,2.034,1.063,51.37,D,1
+3754308,2016-05-15,38,Sunderland,Watford,0,2,2,1.063,2.034,48.63,D,1
+3754333,2016-05-15,38,Newcastle United,Tottenham Hotspur,1,5,1,2.078,0.87,40.98,W,3
+3754333,2016-05-15,38,Tottenham Hotspur,Newcastle United,0,1,5,0.87,2.078,59.02,L,0
+3754159,2016-05-17,38,Manchester United,AFC Bournemouth,1,3,1,1.548,0.651,65.2,W,3
+3754159,2016-05-17,38,AFC Bournemouth,Manchester United,0,1,3,0.651,1.548,34.8,L,0
